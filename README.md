@@ -38,6 +38,8 @@ A food delivery application built using **Flutter**, **PHP**, and **MySQL**, all
 
 ## ⚙️ Design Overview
 
-![Food Delivery App](food1.png)
+![Food Delivery App](1.png)
+![Food Delivery App](2.png)
+![Food Delivery App](3.png)
 
 ---
